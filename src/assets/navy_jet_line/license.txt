@@ -1,0 +1,11 @@
+Model Information:
+* title:	Navy Jet Line
+* source:	https://sketchfab.com/3d-models/navy-jet-line-9ecb3c06d9ff4554b90f1d3683676741
+* author:	Thisal.Pasindu (https://sketchfab.com/Thisal.Pasindu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Navy Jet Line" (https://sketchfab.com/3d-models/navy-jet-line-9ecb3c06d9ff4554b90f1d3683676741) by Thisal.Pasindu (https://sketchfab.com/Thisal.Pasindu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

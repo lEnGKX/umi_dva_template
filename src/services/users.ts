@@ -4,7 +4,7 @@ import apis from './apis';
 const { userApis } = apis;
 
 export const getUsersInfo = () => {
-  return request(userApis.getUsersInfoApi, {
+  return request(userApis.getUsersInfoApi(), {
     method: 'get',
   });
 };

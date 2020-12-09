@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@ant-design/pro-layout": "^5.0.12",
+    "@types/socket.io-client": "^1.4.34",
     "@umijs/preset-react": "1.x",
     "@umijs/test": "^3.2.24",
     "lint-staged": "^10.0.7",
@@ -38,6 +39,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.6",
     "husky": "^4.3.0",
+    "socket.io-client": "^2.3.0",
     "typedoc": "^0.19.2",
     "typescript": "^4.0.2"
   }

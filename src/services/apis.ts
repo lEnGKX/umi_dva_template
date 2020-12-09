@@ -1,6 +1,6 @@
 // 用户
 const userApis = {
-  getUsersInfoApi: 'getUsersTestDataAll',
+  getUsersInfoApi: () => 'getUsersTestDataAll',
 };
 
 export default { userApis };
