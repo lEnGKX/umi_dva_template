@@ -19,7 +19,8 @@ import io from 'socket.io-client'; // "socket.io-client": "^2.3.0", 版本 "^3.0
 // 稍微封装一下socket.io， 然后暴露出去。
 const socket = function () {
   //和后端服务建立链接
-  const _io = io('ws://127.0.0.1:7001/ws');
+  const _io = io('ws://localhost:7001/'); // 由于配置 nginx 出问题了，所以这里不要使用 127.0.0.1
+  // const _io = io('ws://81.69.13.123:7001/');
 
   _io.on('connect', () => {
     console.log('socket 连接成功');

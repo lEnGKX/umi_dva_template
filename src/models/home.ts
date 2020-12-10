@@ -48,9 +48,10 @@ export default {
               },
             });
           });
-          return () => {
-            socket.close();
-          };
+        } else {
+          if (window.socket) {
+            window.socket.close();
+          }
         }
       });
     },
