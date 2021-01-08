@@ -25,6 +25,7 @@ export default (props) => {
         }}>
         Jump Home
       </button>
+      <div>我是来测试 Jenkins</div>
     </div>
   );
 };
